@@ -1,0 +1,3 @@
+promo1,promotion alune ndiaye,novembre,2017,
+promo2,promotion daouda diouf,avril,2019,
+promo3,promotion abdoulaye wade,janvier,2020,
